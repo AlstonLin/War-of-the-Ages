@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y\ cellSize
+comment0.target=SpawnPoint(int,\ int,\ int)
+comment0.text=\r\n\ Sets\ the\ Spawnpoint's\ image\ and\ location\r\n\ \r\n\ @param\ x\ \ \ \ \ \ \ \ \ The\ x\ index\ of\ the\ cell\ on\ the\ map\r\n\ @param\ y\ \ \ \ \ \ \ \ \ The\ y\ index\ of\ the\ cell\ on\ the\ map\r\n\ @param\ cellSize\ \ The\ size\ of\ each\ side\ \r\n
+comment1.params=
+comment1.target=java.util.LinkedList\ getButtons()
+comment1.text=\r\n\ Returns\ information\ of\ this\ SpawnPoint\ \ \ \r\n\ \r\n\ @return\ \ \ \ \ \ Information\ to\ display\r\n
+comment2.params=
+comment2.target=java.lang.String\ getInformation()
+comment2.text=\r\n\ Returns\ information\ of\ this\ Workshop\r\n\ \r\n\ @return\ \ \ \ \ \ Information\ to\ display\r\n
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ getOriginalImage()
+comment3.text=\r\n\ Returns\ the\ original\ image\r\n\ \r\n\ @return\ \ \ \ \ \ The\ original\ image\r\n
+comment4.params=
+comment4.target=void\ destroy()
+comment4.text=\r\n\ Changes\ the\ Cell\ back\ to\ Grass\r\n
+numComments=5

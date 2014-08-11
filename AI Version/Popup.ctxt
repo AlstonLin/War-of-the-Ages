@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=xSize\ ySize\ message
+comment0.target=Popup(int,\ int,\ java.lang.String)
+comment0.text=\r\n\ Creates\ a\ new\ popup\ message\ to\ the\ user.\r\n\ \r\n\ @param\ xSize\ \ \ \ \ The\ size\ of\ the\ x\ side\ of\ the\ popup\r\n\ @param\ ySize\ \ \ \ \ The\ size\ of\ the\ y\ side\ of\ the\ popup\r\n\ @param\ message\ \ \ The\ message\ to\ display\r\n
+comment1.params=
+comment1.target=void\ destroy()
+comment1.text=\r\n\ Destroys\ the\ popup.\ \r\n
+numComments=2

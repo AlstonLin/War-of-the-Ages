@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=x\ y\ cellSize
+comment0.target=Nature(int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ the\ Nature\ object.\ Sets\ the\ size,\ and\ location\r\n\ \r\n\ @param\ x\ \ \ \ \ \ \ \ \ The\ x\ index\ of\ the\ cell\ on\ the\ map\r\n\ @param\ y\ \ \ \ \ \ \ \ \ The\ y\ index\ of\ the\ cell\ on\ the\ map\r\n\ @param\ cellSize\ \ The\ size\ of\ each\ side\ \r\n
+numComments=1

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=Button(greenfoot.GreenfootImage)
+comment0.text=\r\n\ Creates\ a\ new\ Button\ with\ the\ given\ image.\r\n\ \r\n\ @param\ image\ \ \ \ \ The\ appearence\ of\ the\ Button\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Checks\ if\ this\ Button\ has\ been\ clicked.\ \r\n\ Called\ before\ every\ frame\ is\ rendered;\ \r\n
+comment2.params=
+comment2.target=void\ forceRemovePopup()
+comment2.text=\r\n\ Removes\ the\ popUp\r\n
+comment3.params=
+comment3.target=void\ click()
+comment3.text=\r\n\ Actions\ corresponding\ to\ the\ clicked\ button\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getHoverInfo()
+comment4.text=\r\n\ Gets\ the\ info\ that\ will\ be\ displayed\ when\ the\ mouse\r\n\ hovers\ over\ the\ Button.\r\n
+comment5.params=
+comment5.target=Popup\ getPopup()
+comment5.text=\r\n\ Returns\ the\ Pop\ Up\r\n\ \r\n\ @return\ \ \ \ \ \ The\ pop\ up\r\n
+numComments=6

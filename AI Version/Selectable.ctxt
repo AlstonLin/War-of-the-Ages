@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.LinkedList\ getButtons()
+comment0.text=\r\n\ Will\ return\ Buttons,\ if\ any,\ that\ will\ be\ put\ on\r\n\ the\ ActionsPanel\ to\ allow\ the\ user\ to\ click\ on\ once\ \r\n\ the\ Object\ us\ selected.\r\n\ \r\n\ @return\ \ \ \ \ \ A\ List\ of\ Buttons\ that\ the\ user\ can\ click\r\n
+comment1.params=
+comment1.target=java.lang.String\ getInformation()
+comment1.text=\r\n\ Returns\ the\ text\ to\ display\ on\ the\ InformationPanel\r\n\ \r\n\ @return\ \ \ \ \ \ the\ text\ to\ display\r\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=type\ data
+comment0.target=Request(int,\ java.lang.Object)
+comment0.text=\r\n\ Creates\ a\ new\ request\ to\ the\ server\ that\ can\ be\ sent\r\n\ and\ be\ handled.\r\n\ \r\n\ @param\ type\ \ \ \ \ \ The\ type\ of\ request\r\n\ @param\ data\ \ \ \ \ \ Whatever\ data\ that\ is\ required\ for\ the\ request\ to\ be\ handled\r\n
+comment1.params=
+comment1.target=int\ getType()
+comment1.text=\r\n\ Returns\ the\ type\ of\ update\ this\ is\r\n\ \r\n\ @return\ \ \ \ \ \ The\ type\ of\ update\ this\ is\r\n
+comment2.params=
+comment2.target=java.lang.Object\ getData()
+comment2.text=\r\n\ Returns\ the\ relaventdata\ for\ this\ update\r\n\ \r\n\ @return\ \ \ \ \ \ The\ relavent\ data\ for\ this\ update\r\n
+numComments=3

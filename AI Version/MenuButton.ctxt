@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MenuButton()
+comment0.text=\r\n\ Initializes\ button\ through\ setting\ its\ image\r\n
+comment1.params=
+comment1.target=void\ click()
+comment1.text=\r\n\ Sets\ the\ world\ back\ to\ the\ title\ screen\r\n
+comment2.params=
+comment2.target=java.lang.String\ getHoverInfo()
+comment2.text=\r\n\ Returns\ information\ of\ this\ object\r\n\ \r\n\ @return\ \ \ \ \ \ Information\ to\ display\r\n
+numComments=3

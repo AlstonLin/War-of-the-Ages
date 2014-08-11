@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StatisticsPanel()
+comment0.text=\r\n\ Constructor\ for\ StatisticsPanel,\ sets\ the\ size\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Updates\ the\ statistics\ of\ the\ User.\r\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=victory
+comment0.target=EndTitle(boolean)
+comment0.text=\r\n\ sets\ the\ image\ according\ to\ the\ victor\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Counts\ down\ the\ timer\ in\ which\ the\ message\ will\ remain\ on\ screen\r\n
+comment2.params=
+comment2.target=void\ timer()
+comment2.text=\r\n\ The\ timer\ in\ which\ the\ message\ will\ remain\ on\ screen.\r\n\ Once\ removed,\ will\ display\ the\ menu\ screen\ again.\t\r\n
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=x\ y\ cellSize
+comment0.target=Tree(int,\ int,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ Tree\ at\ the\ given\ map\ coordinates.\r\n\ \r\n\ @param\ x\ \ \ \ \ \ \ \ \ The\ x\ index\ of\ the\ cell\ on\ the\ map\r\n\ @param\ y\ \ \ \ \ \ \ \ \ The\ y\ index\ of\ the\ cell\ on\ the\ map\r\n\ @param\ cellSize\ The\ size\ of\ each\ side\r\n
+comment1.params=
+comment1.target=greenfoot.GreenfootImage\ getOriginalImage()
+comment1.text=\r\n\ Returns\ the\ original\ image\r\n\ \r\n\ @return\ \ \ \ \ \ The\ original\ image\r\n
+comment2.params=resource
+comment2.target=int\ getResource(int)
+comment2.text=\r\n\ Returns\ the\ number\ of\ resources\r\n\ \r\n\ @return\ \ \ \ \ \ The\ amount\ of\ resources\ the\ tree\ has\ left\r\n
+comment3.params=resource
+comment3.target=void\ removeResource(int)
+comment3.text=\r\n\ Removes\ the\ specified\ wood\ in\ the\ Tree.\ If\ the\ amount\ of\ resources\r\n\ reached\ 0,\ this\ will\ destroy\ itself.\r\n\ \r\n\ @param\ resource\ The\ amount\ of\ gold\ to\ remove\r\n
+comment4.params=
+comment4.target=java.lang.String\ getInformation()
+comment4.text=\r\n\ Returns\ information\ of\ this\ object\r\n\ \r\n\ @return\ \ \ \ \ \ Information\ to\ display\r\n
+comment5.params=
+comment5.target=java.util.LinkedList\ getButtons()
+comment5.text=\r\n\ Returns\ a\ LinkedList\ of\ this\ objects's\ buttons\r\n\ \r\n\ @return\ \ \ \ \ \ LinkedList\ of\ this\ objects's\ buttons\r\n
+numComments=6
