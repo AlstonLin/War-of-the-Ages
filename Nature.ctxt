@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Nature
+comment0.text=\r\n\ Nature\ encompasses\ any\ stationary\ objects\ that\ provide\ resources,\r\n\ or\ they\ are\ just\ there\ for\ setting\ purposes\r\n\ \r\n\ @author\ Alston\ Lin\r\n\ @version\ Alpha\ 2.1\r\n
+comment1.params=x\ y\ cellSize
+comment1.target=Nature(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ the\ Nature\ object.\ Sets\ the\ size,\ and\ location\r\n\ \r\n\ @param\ x\ \ \ \ \ \ \ \ \ The\ x\ index\ of\ the\ cell\ on\ the\ map\r\n\ @param\ y\ \ \ \ \ \ \ \ \ The\ y\ index\ of\ the\ cell\ on\ the\ map\r\n\ @param\ cellSize\ \ The\ size\ of\ each\ side\ \r\n
+numComments=2

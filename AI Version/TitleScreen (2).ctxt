@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=TitleScreen()
-comment0.text=\n\ Constructor\ for\ objects\ of\ class\ TitleScreen.\n
-comment1.params=
-comment1.target=void\ setup()
-comment1.text=\n\ Adds\ the\ buttons\ onto\ the\ Title\ screen\n
-numComments=2

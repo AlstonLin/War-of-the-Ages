@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Minimap
+comment0.text=\r\n\ An\ overview\ of\ the\ entire\ in-game\ world\ map\r\n\ \r\n\ @author\ Alston\ Lin\r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Updates\ the\ contents\ every\ 100\ acts.\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ Updates\ the\ contents\ of\ the\ minimap.\r\n
+numComments=3

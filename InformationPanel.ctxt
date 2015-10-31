@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InformationPanel
+comment0.text=\r\n\ A\ panel\ that\ will\ display\ the\ information\ given.\r\n\ \r\n\ @author\ Alston\ Lin\r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=
+comment1.target=InformationPanel()
+comment1.text=\r\n\ Creates\ a\ new\ InformationPanel,\ sets\ the\ image\r\n
+comment2.params=toDisplay
+comment2.target=void\ display(java.lang.String)
+comment2.text=\r\n\ Displays\ the\ given\ Strings\ onto\ the\ informationPanel.\ \r\n\ \r\n\ @param\ toDisplay\ \ \ \ \ The\ text\ that\ will\ be\ displayed\r\n
+numComments=3

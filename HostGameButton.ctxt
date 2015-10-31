@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HostGameButton
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HostGameButton\ here.\r\n\ \r\n\ @author\ Alston\ Lin\r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=
+comment1.target=HostGameButton()
+comment1.text=\r\n\ Sets\ the\ image\ for\ this\ object\r\n
+comment2.params=
+comment2.target=void\ click()
+comment2.text=\r\n\ Hosts\ a\ new\ room\r\n
+comment3.params=
+comment3.target=java.lang.String\ getHoverInfo()
+comment3.text=\r\n\ Returns\ the\ information\ of\ this\ button\r\n\ \r\n\ @return\ \ \ \ \ \ The\ information\ of\ this\ button\r\n
+numComments=4

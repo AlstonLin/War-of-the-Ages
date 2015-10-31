@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BerryBush
+comment0.text=\r\n\ A\ naturally\ occuring\ source\ of\ food\ found\ in\ the\ wild.\r\n\ \r\n\ @author\ Alston\ Lin,\ Koko\ Deng\r\n\ @version\ Alpha\ 2.1\r\n
+comment1.params=x\ y\ cellSize
+comment1.target=BerryBush(int,\ int,\ int)
+comment1.text=\r\n\ Creates\ a\ new\ BerryBush\ at\ the\ given\ map\ coordinates.\r\n\ \r\n\ @param\ x\ \ \ \ \ \ \ \ \ The\ x\ index\ of\ the\ cell\ on\ the\ map\r\n\ @param\ y\ \ \ \ \ \ \ \ \ The\ y\ index\ of\ the\ cell\ on\ the\ map\r\n\ @param\ cellSize\ \ The\ size\ of\ each\ side\ \r\n
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ getOriginalImage()
+comment2.text=\r\n\ Returns\ the\ original\ image\r\n\ \r\n\ @return\ \ \ \ \ \ The\ original\ image\r\n
+comment3.params=
+comment3.target=int\ getResources()
+comment3.text=\r\n\ Retunrs\ the\ number\ of\ resources\r\n\ \r\n\ @return\ \ \ \ \ \ The\ amount\ of\ resources\ the\ berry\ bush\ has\ left\r\n
+comment4.params=resource
+comment4.target=void\ removeResource(int)
+comment4.text=\r\n\ Removes\ the\ specified\ food\ from\ the\ bush.\ If\ the\ amount\ of\ resources\r\n\ reached\ 0,\ this\ will\ destroy\ itself.\r\n\ \r\n\ @param\ resource\ \ \ The\ amount\ of\ gold\ to\ remove\r\n
+comment5.params=
+comment5.target=java.lang.String\ getInformation()
+comment5.text=\r\n\ Returns\ information\ of\ this\ object\r\n\ \r\n\ @return\ \ \ \ \ \ Information\ to\ display\r\n
+comment6.params=
+comment6.target=java.util.LinkedList\ getButtons()
+comment6.text=\r\n\ Returns\ a\ LinkedList\ of\ this\ objects's\ buttons\r\n\ \r\n\ @return\ \ \ \ \ \ LinkedList\ of\ this\ objects's\ buttons\r\n
+numComments=7

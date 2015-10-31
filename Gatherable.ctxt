@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Gatherable
+comment0.text=\r\n\ Classes\ that\ implement\ this\ interface\ should\ be\ Cells,\ \r\n\ and\ would\ imply\ that\ it\ contains\ resouces\ that\ can\ be\r\n\ gathered.\r\n\ \r\n\ @author\ Alston\ Lin\r\n\ @version\ Beta\ 2.1\r\n
+numComments=1

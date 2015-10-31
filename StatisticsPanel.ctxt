@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StatisticsPanel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StatisticsPanel\ here.\r\n\ \r\n\ @author\ Koko\ Deng\r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=
+comment1.target=StatisticsPanel()
+comment1.text=\r\n\ Constructor\ for\ StatisticsPanel,\ sets\ the\ size\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Updates\ the\ statistics\ of\ the\ User.\r\n
+numComments=3

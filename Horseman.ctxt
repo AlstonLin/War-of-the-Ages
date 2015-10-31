@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Horseman
+comment0.text=\r\n\ Horseman\r\n\ \r\n\ @author\ James\ Ly,\ Jesmin\ Hondell,\ Daniel\ Chung\r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=owner\ cell\ map
+comment1.target=Horseman(Player,\ Cell,\ Map)
+comment1.text=\r\n\ Constructor\ for\ Horseman,\ sets\ its\ cell\ and\ map\r\n\r\n\ @param\ cell\ \ \ \ \ \ The\ Cell\ that\ the\ unit\ will\ spawn\ in\r\n\ @param\ map\ \ \ \ \ \ \ The\ Map\ that\ this\ will\ be\ put\ into\r\n
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ getLeftImage()
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ getRightImage()
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ getFrontImage()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ getBackImage()
+numComments=6

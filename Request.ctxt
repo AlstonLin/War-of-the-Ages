@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Request
+comment0.text=\r\n\ A\ packet\ of\ data\ for\ the\ multiplayer\ mode\ in\ which\ the\ client\ sends\r\n\ a\ request\ to\ the\ server\ to\ perform\ a\ task.\ \r\n\ \r\n\ @author\ Alston\ Lin\r\n\ @version\ 1.0\r\n
+comment1.params=type\ data
+comment1.target=Request(int,\ java.lang.Object)
+comment1.text=\r\n\ Creates\ a\ new\ request\ to\ the\ server\ that\ can\ be\ sent\r\n\ and\ be\ handled.\r\n\ \r\n\ @param\ type\ \ \ \ \ \ The\ type\ of\ request\r\n\ @param\ data\ \ \ \ \ \ Whatever\ data\ that\ is\ required\ for\ the\ request\ to\ be\ handled\r\n
+comment2.params=
+comment2.target=int\ getType()
+comment2.text=\r\n\ Returns\ the\ type\ of\ update\ this\ is\r\n\ \r\n\ @return\ \ \ \ \ \ The\ type\ of\ update\ this\ is\r\n
+comment3.params=
+comment3.target=java.lang.Object\ getData()
+comment3.text=\r\n\ Returns\ the\ relaventdata\ for\ this\ update\r\n\ \r\n\ @return\ \ \ \ \ \ The\ relavent\ data\ for\ this\ update\r\n
+numComments=4

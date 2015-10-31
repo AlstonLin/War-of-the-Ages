@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=void\ act()
-comment0.text=\r\n\ Updates\ the\ contents\ every\ 100\ acts.\r\n
-comment1.params=
-comment1.target=void\ update()
-comment1.text=\r\n\ Updates\ the\ contents\ of\ the\ minimap.\r\n
-numComments=2

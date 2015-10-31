@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TitleScreen
+comment0.text=\r\n\ The\ title\ screen\ of\ the\ game\r\n\ \r\n\ @author\ Jesmin\ Hondell\r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=
+comment1.target=TitleScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TitleScreen.\r\n
+comment2.params=
+comment2.target=void\ setup()
+comment2.text=\r\n\ Adds\ the\ buttons\ onto\ the\ Title\ screen\r\n
+numComments=3

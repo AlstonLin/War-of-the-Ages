@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=JoinGameButton
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ JoinGameButton\ here.\r\n\ \r\n\ @author\ Alston\ Lin\r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=
+comment1.target=JoinGameButton()
+comment1.text=\r\n\ Sets\ the\ image\ for\ this\ object\r\n
+comment2.params=
+comment2.target=void\ click()
+comment2.text=\r\n\ Sets\ the\ world\r\n
+comment3.params=
+comment3.target=java.lang.String\ getHoverInfo()
+comment3.text=\r\n\ Returns\ the\ information\ of\ this\ button\r\n\ \r\n\ @return\ \ \ \ \ \ The\ information\ of\ this\ button\r\n
+numComments=4

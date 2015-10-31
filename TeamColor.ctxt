@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TeamColor
+comment0.text=\r\n\ The\ team\ colour\ depending\ on\ the\ player.\r\n\ \r\n\ @author\ James\ Ly\r\n\ @version\ 1.0\r\n
+comment1.params=blue\ unitToFollow
+comment1.target=TeamColor(boolean,\ Unit)
+comment1.text=\r\n\ Sets\ up\ the\ team\ colour\r\n\ \r\n\ @param\ blue\ \ \ \ \ \ Indicates\ if\ the\ unit\ is\ friendly\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Follows\ the\ Unit\ around\r\n
+comment3.params=x\ y
+comment3.target=void\ moveTo(int,\ int)
+comment3.text=\r\n\ Sets\ the\ location\ of\ the\ Tile\r\n\ \r\n\ @param\ x\ \ \ \ \ The\ x\ co-ordinate\ of\ the\ tile\r\n\ @param\ y\ \ \ \ \ The\ y\ co-ordinate\ of\ the\ tile\r\n
+comment4.params=
+comment4.target=void\ arrowsAtBorder()
+comment4.text=\r\n\ Arrow\ is\ at\ the\ border\r\n
+numComments=5

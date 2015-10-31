@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=NoPossiblePathException
+comment0.text=\r\n\ An\ Exception\ that\ will\ be\ thrown\ when\ there\ are\ no\ possible\r\n\ paths\ to\ a\ desired\ Cell\ with\ a\ given\ Unit\ during\ pathfinding.\r\n\ \r\n\ @author\ Alston\ Lin\r\n\ @version\ Beta\ 2.1\r\n
+numComments=1

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ A\ generic\ button\ that\ will\ call\ the\ abstract\ method\ click()\ when\ clicked\ upon.\r\n\ The\ image\ for\ this\ Object\ should\ be\ set\ by\ the\ subclass.\r\n\ \r\n\ @author\ Alston\ Lin\r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=image
+comment1.target=Button(greenfoot.GreenfootImage)
+comment1.text=\r\n\ Creates\ a\ new\ Button\ with\ the\ given\ image.\r\n\ \r\n\ @param\ image\ \ \ \ \ The\ appearence\ of\ the\ Button\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Checks\ if\ this\ Button\ has\ been\ clicked.\ \r\n\ Called\ before\ every\ frame\ is\ rendered;\ \r\n
+comment3.params=
+comment3.target=void\ forceRemovePopup()
+comment3.text=\r\n\ Removes\ the\ popUp\r\n
+comment4.params=
+comment4.target=void\ click()
+comment4.text=\r\n\ Actions\ corresponding\ to\ the\ clicked\ button\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getHoverInfo()
+comment5.text=\r\n\ Gets\ the\ info\ that\ will\ be\ displayed\ when\ the\ mouse\r\n\ hovers\ over\ the\ Button.\r\n
+comment6.params=
+comment6.target=Popup\ getPopup()
+comment6.text=\r\n\ Returns\ the\ Pop\ Up\r\n\ \r\n\ @return\ \ \ \ \ \ The\ pop\ up\r\n
+numComments=7

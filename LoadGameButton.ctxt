@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LoadGameButton
+comment0.text=\r\n\ Loads\ a\ previously\ saved\ Game\r\n\ \r\n\ @author\ Alston\ Lin,\ Koko\ Deng\r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=
+comment1.target=LoadGameButton()
+comment1.text=\r\n\ Sets\ the\ image\ for\ this\ object\r\n
+comment2.params=
+comment2.target=void\ click()
+comment2.text=\r\n\ When\ clicked,\ loads\ the\ game\ from\ file\r\n
+comment3.params=
+comment3.target=java.lang.String\ getHoverInfo()
+comment3.text=\r\n\ Returns\ the\ information\ of\ this\ button\r\n\ \r\n\ @return\ \ \ \ \ \ The\ information\ of\ this\ button\r\n
+comment4.params=
+comment4.target=void\ load()
+comment4.text=\r\n\ Loads\ the\ game\ from\ file\r\n
+numComments=5

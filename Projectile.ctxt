@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ Does\ nothing\ except\ looking\ asthetically\ pleasing\r\n\ \r\n\ @author\ James\ Ly\r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=target
+comment1.target=Projectile(greenfoot.Actor)
+comment1.text=\r\n\ Initializes\ the\ Projectile\r\n\ \r\n\ @param\ \ \ \ \ \ \ The\ actor\ to\ be\ targeted\r\n
+comment2.params=target\ temp
+comment2.target=Projectile(greenfoot.Actor,\ boolean)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Projectile\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=RangedArtillery
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RangedArtillery\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=owner\ cell\ map
+comment1.target=RangedArtillery(Player,\ Cell,\ Map)
+comment1.text=\r\n\ Constructor\ for\ RangedArtillery,\ sets\ its\ cell\ and\ map\r\n\r\n\ @param\ cell\ \ \ \ \ \ The\ Cell\ that\ the\ unit\ will\ spawn\ in\r\n\ @param\ map\ \ \ \ \ \ \ The\ Map\ that\ this\ will\ be\ put\ into\r\n
+comment2.params=
+comment2.target=void\ arrive()
+comment2.text=\r\n\ What\ happens\ when\ the\ Unit\ arrives\ at\ the\ destination\ Cell\r\n
+comment3.params=
+comment3.target=java.util.LinkedList\ getButtons()
+comment3.text=\r\n\ Returns\ Buttons\ when\ unit\ is\ selected,\ also\ determines\ what\ happens\ once\ buttons\ are\ pressed\r\n\ \r\n\ @return\ \ \ \ \ \ The\ buttons\ when\ unit\ is\ selected\r\n
+comment4.params=
+comment4.target=void\ click()
+comment5.params=
+comment5.target=java.lang.String\ getHoverInfo()
+comment6.params=
+comment6.target=java.lang.String\ getInformation()
+comment6.text=\r\n\ Returns\ basic\ Information\ to\ be\ used\ in\ the\ information\ Panel\r\n
+numComments=7

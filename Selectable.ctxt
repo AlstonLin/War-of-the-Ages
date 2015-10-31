@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Selectable
+comment0.text=\r\n\ The\ Object\ of\ which\ this\ will\ be\ implemented\ upon\ would\r\n\ be\ able\ to\ be\ selected\ by\ the\ user\ and\ display\ Buttons\ on\ the\r\n\ ActionsPanel\ and\ information\ on\ the\ InformationPanel\r\n\ \r\n\ @author\ Alston\ Lin\r\n\ @version\ Alpha\ 2.1\r\n
+comment1.params=
+comment1.target=java.util.LinkedList\ getButtons()
+comment1.text=\r\n\ Will\ return\ Buttons,\ if\ any,\ that\ will\ be\ put\ on\r\n\ the\ ActionsPanel\ to\ allow\ the\ user\ to\ click\ on\ once\ \r\n\ the\ Object\ us\ selected.\r\n\ \r\n\ @return\ \ \ \ \ \ A\ List\ of\ Buttons\ that\ the\ user\ can\ click\r\n
+comment2.params=
+comment2.target=java.lang.String\ getInformation()
+comment2.text=\r\n\ Returns\ the\ text\ to\ display\ on\ the\ InformationPanel\r\n\ \r\n\ @return\ \ \ \ \ \ the\ text\ to\ display\r\n
+numComments=3

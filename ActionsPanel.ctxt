@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ActionsPanel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ActionsPanel\ here.\r\n\ \r\n\ @author\ Alston\ Lin,\ Koko\ Deng\r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=
+comment1.target=ActionsPanel()
+comment1.text=\r\n\ Constructor\ for\ ActionsPanel,\ sets\ the\ size\r\n
+comment2.params=buttons
+comment2.target=void\ setButtons(java.util.LinkedList)
+comment2.text=\r\n\ Sets\ the\ Buttons\ to\ appear\ on\ the\ display\r\n
+numComments=3

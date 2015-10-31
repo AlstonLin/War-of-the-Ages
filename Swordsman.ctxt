@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Swordsman
+comment0.text=\r\n\ Swordsman\r\n\ \r\n\ @author\ James\ Ly,\ Jesmin\ Hondell,\ Daniel\ Chung\r\n\ @version\ Beta\ 2.1\r\n
+comment1.params=owner\ cell\ map
+comment1.target=Swordsman(Player,\ Cell,\ Map)
+comment1.text=\r\n\ Constructor\ for\ Swordsman,\ sets\ its\ cell\ and\ map\r\n\r\n\ @param\ cell\ \ \ \ \ \ The\ Cell\ that\ the\ unit\ will\ spawn\ in\r\n\ @param\ map\ \ \ \ \ \ \ The\ Map\ that\ this\ will\ be\ put\ into\r\n
+comment2.params=unit
+comment2.target=void\ interactWith(Unit)
+comment2.text=\r\n\ What\ happens\ when\ the\ Unit\ arrives\ at\ the\ selected\ Unit\r\n\r\n\ @param\ unit\ \ \ \ \ \ The\ Unit\ it\ is\ interacting\ with\r\n
+comment3.params=cell
+comment3.target=void\ enterCell(Cell)
+comment3.text=\r\n\ What\ happens\ when\ the\ Unit\ arrives\ at\ the\ destination\ Cell\r\n\r\n\ @param\ cell\ \ \ \ \ \ The\ Cell\ that\ the\ Unit\ will\ enter\r\n
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ getLeftImage()
+comment4.text=\r\n\ Returns\ the\ image\ when\ object\ is\ facing\ left\r\n\ \r\n\ @return\ \ \ \ \ \ The\ image\ when\ object\ is\ facing\ left\r\n
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ getRightImage()
+comment5.text=\r\n\ Returns\ the\ image\ when\ object\ is\ facing\ right\r\n\ \r\n\ @return\ \ \ \ \ \ The\ image\ when\ object\ is\ facing\ right\r\n
+comment6.params=
+comment6.target=greenfoot.GreenfootImage\ getFrontImage()
+comment6.text=\r\n\ Returns\ the\ image\ when\ object\ is\ facing\ the\ front\r\n\ \r\n\ @return\ \ \ \ \ \ The\ image\ when\ object\ is\ facing\ the\ front\r\n
+comment7.params=
+comment7.target=greenfoot.GreenfootImage\ getBackImage()
+comment7.text=\r\n\ Returns\ the\ image\ when\ object\ is\ facing\ back\ (away)\r\n\ \r\n\ @return\ \ \ \ \ \ The\ image\ when\ object\ is\ facing\ back\ (away)\r\n
+numComments=8

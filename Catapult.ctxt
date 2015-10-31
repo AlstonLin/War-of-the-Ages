@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Catapult
+comment0.text=\r\n\ Catapult\r\n\ \r\n\ @author\ James\ Ly,\ Jesmin\ Hondell,\ Daniel\ Chung\r\n\ @version\ Alpha\ 2.1\r\n
+comment1.params=owner\ cell\ map
+comment1.target=Catapult(Player,\ Cell,\ Map)
+comment1.text=\r\n\ Constructor\ for\ Catapult,\ sets\ its\ cell\ and\ map\r\n\r\n\ @param\ cell\ \ \ \ \ \ The\ Cell\ that\ the\ unit\ will\ spawn\ in\r\n\ @param\ map\ \ \ \ \ \ \ The\ Map\ that\ this\ will\ be\ put\ into\r\n
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ getLeftImage()
+comment2.text=\r\n\ Returns\ the\ image\ when\ object\ is\ facing\ left\r\n\ \r\n\ @return\ \ \ \ \ \ The\ image\ when\ object\ is\ facing\ left\r\n
+comment3.params=
+comment3.target=greenfoot.GreenfootImage\ getRightImage()
+comment3.text=\r\n\ Returns\ the\ image\ when\ object\ is\ facing\ right\r\n\ \r\n\ @return\ \ \ \ \ \ The\ image\ when\ object\ is\ facing\ right\r\n
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ getFrontImage()
+comment4.text=\r\n\ Returns\ the\ image\ when\ object\ is\ facing\ the\ front\r\n\ \r\n\ @return\ \ \ \ \ \ The\ image\ when\ object\ is\ facing\ the\ front\r\n
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ getBackImage()
+comment5.text=\r\n\ Returns\ the\ image\ when\ object\ is\ facing\ back\ (away)\r\n\ \r\n\ @return\ \ \ \ \ \ The\ image\ when\ object\ is\ facing\ back\ (away)\r\n
+numComments=6

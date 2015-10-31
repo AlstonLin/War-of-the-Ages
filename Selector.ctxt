@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Selector
+comment0.text=\r\n\ Allows\ the\ user\ to\ select\ multiple\ Units\ on\ the\ User-Interface.\r\n\ \r\n\ @author\ Alston\ Lin\r\n\ @version\ Beta\ 2.\r\n
+comment1.params=
+comment1.target=Selector()
+comment1.text=\r\n\ Constructor\ for\ Selector;\ sets\ the\ initial\ size\ as\ 1x1\ and\r\n\ transparency\ to\ 50.\r\n
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=void\ resize(int,\ int,\ int,\ int)
+comment2.text=\r\n\ Updates\ the\ selector\ to\ the\ given\ coordinates\ to\ create\ \r\n\ a\ rectangle\r\n\ \r\n\ @param\ x1\ \ \ \ The\ x\ position\ of\ the\ first\ coordinate\r\n\ @param\ y1\ \ \ \ The\ y\ position\ of\ the\ first\ coordinate\r\n\ @param\ x2\ \ \ \ The\ x\ position\ of\ the\ second\ coordinate\r\n\ @param\ y2\ \ \ \ The\ y\ position\ of\ the\ second\ coordinate\r\n
+comment3.params=cls
+comment3.target=java.util.List\ getIntersectingObjects(java.lang.Class)
+comment3.text=\r\n\ Allows\ public\ access\ to\ the\ superclass'\ method\r\n\ \r\n\ @return\ \ \ \ \ \ An\ List\ of\ Objects\ of\ the\ given\ class\ that\ intersects\ with\ the\ Selector\r\n
+comment4.params=cls
+comment4.target=greenfoot.Actor\ getOneIntersectingObject(java.lang.Class)
+comment4.text=\r\n\ Allows\ public\ access\ to\ the\ superclass'\ method\r\n\ \r\n\ @return\ \ \ \ \ \ An\ Object\ of\ the\ given\ class\ that\ intersects\ with\ the\ Selector\r\n
+numComments=5
